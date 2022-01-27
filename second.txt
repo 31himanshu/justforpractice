@@ -1,2 +1,4 @@
 this is second file from dev brnach.
-adding this line using master.
+
+
+adding this line using master ,hope conflict does not occur.
